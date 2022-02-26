@@ -1,0 +1,18 @@
+/*
+*
+* ==========================================
+* FOR DEMO PURPOSE
+* ==========================================
+*
+*/
+body {
+  min-height: 100vh;
+}
+
+.prize-photo {
+  width: 300px;
+}
+
+.center {
+  text-align: center;
+}
