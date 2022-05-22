@@ -410,8 +410,18 @@ a {
   cursor: pointer;
 }
 
-/* @media screen and (max-width: 600px) {
-  #competition-logo {
-    margin-top: 550px;
+#participant-grader-remarks  {
+  padding: 10px;
+}
+
+#participant-grader-remarks li {
+  text-align: left;
+  list-style-type:decimal !important;
+}
+
+@media screen and (max-width: 600px) {
+  .cards {
+    grid-template-columns: repeat(auto-fill, minmax(100%, 1fr));
+
   }
-} */
+}
