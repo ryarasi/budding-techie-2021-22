@@ -85,9 +85,9 @@ const scores = [
     "Leaderboard Score %": "",
     "Netlify Link": "https://sites.google.com/view/disa7/home#h.1c79h8hy1ctk",
     "Participation Prize": "Yes",
-    "Overall Score": 26,
+    "Overall Score": 24,
     "Presentation": 7,
-    "Complexity": 6,
+    "Complexity": 4,
     "Creativity": 5,
     "Learning to learn": 3,
     "Originality": 5,
@@ -229,11 +229,11 @@ const scores = [
     "Leaderboard Score %": "",
     "Netlify Link": "https://beamish-lolly-88f779.netlify.app",
     "Participation Prize": "Yes",
-    "Overall Score": 35,
+    "Overall Score": 32,
     "Presentation": 7,
-    "Complexity": 7,
+    "Complexity": 5,
     "Creativity": 6,
-    "Learning to learn": 6,
+    "Learning to learn": 5,
     "Originality": 6,
     "Code Quality": 3,
     "Remarks": "* The site is simple yet coherent. It presents all the basic information needed for the purpose without adding too many bells and whistles.\n* Some things that could have been improved is the use of a footer on each page, a more compact navigational menu, higher resolution images, and better formatting of the text on home page since it looks too cluttered.\n* In terms of code quality, the external stylesheet could have been used throughout instead of using both and formatting could have been better, some code is unnecessary.\n* Overall, this is a good first attempt. Thanks for participating!"
@@ -292,7 +292,7 @@ const scores = [
     "Code Quality": 5,
     "Remarks": "* The site is simple yet purposeful and coherent. \n* Some things that could have been improved is the use of higher resolution images, better alignment of some background images. For example, the \"save soil\" logo on the header is cropped by the screen. And the font size on the mobile view is very small, so it's not mobile friendly.\n* The code quality is fair.\n* Overall, this is a good attempt, however it could have been much better with more time spent, considering the student won the 2nd prize in the last year's competition! Nonetheless, thanks for participating!"
   }
-]
+];
 
 const headers = [
   "Name", // 0
